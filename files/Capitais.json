@@ -2,151 +2,151 @@
     "Capital":"Rio Branco",
     "Estado": "Acre", 
     "Sigla":"AC" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     
     {"Capital":"Maceió",
     "Estado": "Alagoas", 
     "Sigla":"AL" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     
     {"Capital":"Macapá",
     "Estado": "Amapá", 
     "Sigla":"AP" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     
     {"Capital":"Manaus",
     "Estado": "Amazonas", 
     "Sigla":"AM" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     
     {"Capital":"Salvador",
     "Estado": "Bahia", 
     "Sigla":"BA" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     
     {"Capital":"Fortaleza",
     "Estado": "Ceará", 
     "Sigla":"CE" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     
     {"Capital":"Brasília",
     "Estado": "Distrito Federal", 
     "Sigla":"DF" ,
-    "Região":"Centro-Oeste"
+    "Regiao":"Centro-Oeste"
     },
     
     {"Capital":"Vitória",
     "Estado": "Espírito Santo", 
     "Sigla":"ES" ,
-    "Região":"Sudeste"
+    "Regiao":"Sudeste"
     },
     
     {"Capital":"Goiânia",
     "Estado": "Goiás", 
     "Sigla":"GO" ,
-    "Região":"Centro-Oeste"
+    "Regiao":"Centro-Oeste"
     },
     
     {"Capital":"São Luís",
     "Estado": "Maranhão", 
     "Sigla":"MA" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     
     {"Capital":"Cuiabá",
     "Estado": "Mato Grosso", 
     "Sigla":"MT" ,
-    "Região":"Centro-Oeste"
+    "Regiao":"Centro-Oeste"
     },
     
     {"Capital":"Campo Grande",
     "Estado": "Mato Grosso do Sul", 
     "Sigla":"MS" ,
-    "Região":"Centro-Oeste"
+    "Regiao":"Centro-Oeste"
     },
     
     {"Capital":"Belo Horizonte",
     "Estado": "Minas Gerais", 
     "Sigla":"MG" ,
-    "Região":"Sudeste"
+    "Regiao":"Sudeste"
     },
     
     {"Capital":"Belém",
     "Estado": "Pará", 
     "Sigla":"PA" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     {"Capital":"João Pessoa",
     "Estado": "Paraíba", 
     "Sigla":"PB" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     {"Capital":"Curitiba",
     "Estado": "Paraná", 
     "Sigla":"PR" ,
-    "Região":"Sul"
+    "Regiao":"Sul"
     },
     {"Capital":"Recife",
     "Estado": "Pernambuco", 
     "Sigla":"PE" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     {"Capital":"Teresina",
     "Estado": "Piauí", 
     "Sigla":"PI" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     {"Capital":"Rio de Janeiro",
     "Estado": "Rio de Janeiro", 
     "Sigla":"RJ" ,
-    "Região":"Sudeste"
+    "Regiao":"Sudeste"
     },
     {"Capital":"Natal",
     "Estado": "Rio Grande do Norte", 
     "Sigla":"RN" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     
     {"Capital":"Porto Alegre",
     "Estado": "Rio Grande do Sul", 
     "Sigla":"RS" ,
-    "Região":"Sul"
+    "Regiao":"Sul"
     },
     {"Capital":"Porto Velho",
     "Estado": "Rondônia", 
     "Sigla":"RO" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     
     {"Capital":"Boa Vista",
     "Estado": "Roraima", 
     "Sigla":"RR" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     },
     {"Capital":"Florianópolis",
     "Estado": "Santa Catarina", 
     "Sigla":"SC" ,
-    "Região":"Sul"
+    "Regiao":"Sul"
     },
     {"Capital":"São Paulo",
     "Estado": "São Paulo", 
     "Sigla":"SP" ,
-    "Região":"Sudeste"
+    "Regiao":"Sudeste"
     },
     
     {"Capital":"Aracajú",
     "Estado": "Sergipe", 
     "Sigla":"SE" ,
-    "Região":"Nordeste"
+    "Regiao":"Nordeste"
     },
     {"Capital":"Palmas",
     "Estado": "Tocantins", 
     "Sigla":"TO" ,
-    "Região":"Norte"
+    "Regiao":"Norte"
     }]
